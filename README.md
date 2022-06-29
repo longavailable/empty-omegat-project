@@ -22,7 +22,17 @@
 
 - open it with `OmegaT`.
 
-## How to update source file
+## Source file
+
+- Add a new source file, two ways:
+
+	- `git` client,
+	
+	- `Copy the file to source folder` and `Commit Source files` in menu `Project`.
+	
+- Modify a source file,
+
+	- `git` client only.
 
 
 
